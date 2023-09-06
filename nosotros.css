@@ -78,7 +78,7 @@ header{
     margin-top: 65px;
     height: 350px;
     width: 90vh;
-    background: url(Estilos/Imagenes/nosotros.jpg);
+    background: url(Imagenes/nosotros.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -119,7 +119,7 @@ header{
     border-radius: 10px;
     height: 350px;
     width: 90vh;
-    background: url(Estilos/Imagenes/quehacemos.jpg);
+    background: url(Imagenes/quehacemos.jpg);
     background-size: cover;
     background-position: center center;
 }
